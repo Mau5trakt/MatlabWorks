@@ -31,7 +31,7 @@ Imagen del programa.
 <p align="center"><img src ="primera.jpeg"></p>
 La tercera imagen era porque pidieron que subieramos una imagen que nos gustara y fue una desición bien random. 
 
-## Termodinámica
+## 2) Termodinámica
 Se le pide al usuario que introduzca la temperatura y la presión de la sustancia de la que desea conocer el volumen molar. 
 
 
@@ -39,7 +39,7 @@ Se le pide al usuario que introduzca la temperatura y la presión de la sustanci
 <p align="center"><img src ="segunda.jpeg"></p>
 Imagen del programa.
 
-## Propiedades de sustancias
+## 3) Propiedades de sustancias
 
 En este ejercicio se calcula la conductividad térmica y el calor específico de una lista de sustancias en las que se puede ir viendo la variación de esta en una gráfica la cual cambia el valor haciendo uso de un Slider. 
 
@@ -48,7 +48,7 @@ En este ejercicio se calcula la conductividad térmica y el calor específico de
 <p align="center"><img src ="tercera.jpeg"></p>
 Imagen del programa.
 
-## Nómina Semanal 
+## 4) Nómina Semanal 
 En este ejercicio se pide realizar un algoritmo para determinar el salario de un empleado en función de las horas que laboró y el coste de estas. Al no ser un archivo con interfaz gráfica no se muestra una imagen del mismo.
 
 ## Indicaciones
