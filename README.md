@@ -14,7 +14,6 @@ Repositorio que contiene el trabajo de fin de curso de la materia de Introducci�
 - [2) Termodinámica](#Termodinámica)
 - [3) Propiedades de Sustancias](#propiedades-de-sustancias)
 - [4) Nómina Semanal](#nómina-semanal)
-- [Indicaciones](Indicaciones#)
 - [Autores](#Autores)
 ---
 ## Descripción
